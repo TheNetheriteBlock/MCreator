@@ -1,0 +1,1 @@
+(${input$direction}.rotateAround(EnumFacing.Axis.${field$axis}))

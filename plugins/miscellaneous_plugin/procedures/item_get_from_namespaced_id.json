@@ -1,0 +1,28 @@
+{
+  "message0": "Get item from namespaced ID: %1 %2",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "ID",
+      "check": "String"
+    },
+	{
+      "type": "field_image",
+      "src": "./res/bi.png",
+      "width": 8,
+      "height": 36
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+	  "<value name=\"ID\"><block type=\"text\"><field name=\"TEXT\">minecraft:stick</field></block></value>"
+    ],
+    "inputs": [
+	  "ID"
+    ]
+  }
+}

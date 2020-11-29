@@ -1,0 +1,1 @@
+(${input$entity} instanceof EntityLivingBase ? (((EntityLivingBase) ${input$entity}).getCreatureAttribute() == EnumCreatureAttribute.<#if field$type?lower_case == "water">UNDEFINED<#else>${field$type}</#if>) : false)

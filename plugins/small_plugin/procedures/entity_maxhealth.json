@@ -1,0 +1,14 @@
+{
+  "message0": "Entity max health",
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "entitymanagement",
+    "dependencies": [
+      {
+        "name": "entity",
+        "type": "entity"
+      }
+    ]
+  }
+}

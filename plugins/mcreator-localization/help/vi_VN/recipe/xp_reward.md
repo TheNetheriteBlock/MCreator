@@ -1,0 +1,1 @@
+Thông số này kiểm soát số điểm kinh nghiệm mà người chơi sẽ nhận được sau khi hoàn thành công thức.

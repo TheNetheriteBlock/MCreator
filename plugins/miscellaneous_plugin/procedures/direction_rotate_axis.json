@@ -1,0 +1,43 @@
+{
+  "message0": "(1.14) Rotate direction %1 clockwise around axis %2",
+  "args0": [
+	{
+      "type": "input_value",
+      "name": "direction",
+      "check": "Direction"
+    },
+	{
+      "type": "field_dropdown",
+      "name": "axis",
+      "options": [
+		[
+          "X",
+          "X"
+        ],
+        [
+          "Y",
+          "Y"
+        ],
+        [
+          "Z",
+          "Z"
+        ]
+      ]
+    }
+  ],
+  "inputsInline": true,
+  "output": "Direction",
+  "colour": 20,
+  "mcreator": {
+    "toolbox_id": "mcelements",
+	"toolbox_init": [
+      "<value name=\"direction\"><block type=\"direction_constant\">DOWN</block></value>"
+    ],
+	"fields": [
+	  "axis"
+	],
+	"inputs": [
+      "direction"
+    ]
+  }
+}

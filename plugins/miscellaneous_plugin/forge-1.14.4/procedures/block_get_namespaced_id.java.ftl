@@ -1,0 +1,1 @@
+(ForgeRegistries.BLOCKS.getKey(${input$block}.getBlock()).toString())

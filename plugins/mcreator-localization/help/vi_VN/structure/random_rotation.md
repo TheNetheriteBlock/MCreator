@@ -1,0 +1,1 @@
+Nếu được kiểm tra thì cấu trúc sẽ được xoay theo các hướng khác nhau một cách ngẫu nhiên khi sinh sản.

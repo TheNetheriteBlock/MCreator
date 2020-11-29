@@ -1,0 +1,1 @@
+Chọn hộp này để bật thanh tìm kiếm ở đầu tab để tìm kiếm bên trong tab quảng cáo này.
