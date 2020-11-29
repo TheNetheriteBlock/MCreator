@@ -1,0 +1,1 @@
+ItemStack ${field$variable_name};

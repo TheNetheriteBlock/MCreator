@@ -1,0 +1,7 @@
+{
+  "id": "generator-datapack-1.13.x",
+  "minversion": 202000300000,
+  "info": {
+    "name": "Minecraft data pack 1.13.x generator"
+  }
+}

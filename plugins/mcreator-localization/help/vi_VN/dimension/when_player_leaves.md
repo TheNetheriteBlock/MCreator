@@ -1,0 +1,1 @@
+Thủ tục sẽ được thực hiện khi một người chơi rời khỏi thứ nguyên.

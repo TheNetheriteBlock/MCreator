@@ -1,0 +1,1 @@
+Tham số này kiểm soát nếu các hiệu ứng thời tiết như mưa, tuyết và sấm sét xảy ra trong không gian này.

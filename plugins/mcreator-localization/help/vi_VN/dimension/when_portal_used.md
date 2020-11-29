@@ -1,0 +1,1 @@
+Khi một thực thể sử dụng cổng thông tin, thủ tục sẽ được thực thi.

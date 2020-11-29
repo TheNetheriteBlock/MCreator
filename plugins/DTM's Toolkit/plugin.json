@@ -1,0 +1,9 @@
+{
+    "id": "dtm",
+    "minversion": 202000400000,
+    "info": {
+        "name": "DTM's Toolkit",
+        "version": "1.0.3",
+        "author": "Drop The Mag"
+    }
+}

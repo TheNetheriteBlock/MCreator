@@ -1,0 +1,1 @@
+Cây có thể trồng được sẽ phát triển cho đến khi đạt đến chiều cao này.

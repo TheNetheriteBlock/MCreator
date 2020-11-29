@@ -1,0 +1,22 @@
+{
+  "message0": "Can %1 be damaged",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+	],
+    "inputs": [
+      "item_stack"
+    ]
+  }
+}

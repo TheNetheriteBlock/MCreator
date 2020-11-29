@@ -1,0 +1,129 @@
+{
+  "message0": "Add attribute modifier for %1 operation %2 amount %3 slot %4 to item stack %5",
+  "args0": [
+	{
+      "type": "field_dropdown",
+      "name": "attribute",
+      "options": [
+        [
+          "max health",
+          "maxHealth"
+        ],
+        [
+          "follow range",
+          "followRange"
+        ],
+        [
+          "knockback resistance",
+          "knockbackResistance"
+        ],
+        [
+          "movement speed",
+          "movementSpeed"
+        ],
+        [
+          "attack damage",
+          "attackDamage"
+        ],
+        [
+          "attack speed",
+          "attackSpeed"
+        ],
+        [
+          "armor",
+          "armor"
+        ],
+        [
+          "armor toughness",
+          "armorToughness"
+        ],
+        [
+          "luck",
+          "luck"
+        ]
+      ]
+    },
+    {
+      "type": "field_dropdown",
+      "name": "operation",
+      "options": [
+        [
+          "additive",
+          "0"
+        ],
+        [
+          "multiplicative (base)",
+          "1"
+        ],
+        [
+          "multiplicative (total)",
+          "2"
+        ]
+      ]
+    },
+	{
+      "type": "input_value",
+      "name": "amount",
+      "check": "Number"
+    },
+	{
+      "type": "field_dropdown",
+      "name": "slot",
+      "options": [
+        [
+          "any",
+          "null"
+        ],
+        [
+          "main hand",
+          "MAINHAND"
+        ],
+        [
+          "offhand",
+          "OFFHAND"
+        ],
+		[
+          "head",
+          "HEAD"
+        ],
+        [
+          "chest",
+          "CHEST"
+        ],
+        [
+          "legs",
+          "LEGS"
+        ],
+		[
+          "feet",
+          "FEET"
+        ]
+      ]
+    },
+	{
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+      "<value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+	"fields": [
+      "attribute",
+	  "operation",
+	  "slot"
+    ],
+	"inputs": [
+	  "amount",
+	  "item_stack"
+	]
+  }
+}

@@ -1,0 +1,1 @@
+Tham số này xác định mô hình trực quan (hình dạng trực quan) của thực thể.

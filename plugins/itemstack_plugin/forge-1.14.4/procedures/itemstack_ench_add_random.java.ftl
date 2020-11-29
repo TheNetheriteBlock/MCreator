@@ -1,0 +1,2 @@
+<#include "mcitems.ftl">
+/*@ItemStack*/(EnchantmentHelper.addRandomEnchantment(new java.util.Random(), ${mappedMCItemToItemStackCode(input$item_stack, 1)}, (int) ${input$level}, <#if field$treasure?lower_case == "true"> true <#else> false </#if>))

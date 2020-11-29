@@ -1,0 +1,1 @@
+Số càng cao thì sát thương mà viên đạn gây ra cho thực thể trúng phải càng mạnh.

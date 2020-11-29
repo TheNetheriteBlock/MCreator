@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi người chơi phá vỡ khối.

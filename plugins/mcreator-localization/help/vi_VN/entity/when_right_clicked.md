@@ -1,0 +1,1 @@
+Trình kích hoạt này kích hoạt quy trình khi người chơi nhấp chuột phải vào thực thể này.

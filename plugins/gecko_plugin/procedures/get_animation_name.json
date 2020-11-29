@@ -1,0 +1,24 @@
+{
+  "message0": "Get current animation name from entity %1",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    }
+  ],
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "animationmanagement",
+    "toolbox_init": [
+      "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+    "inputs": [
+      "entity"
+    ],
+    "required_apis":[
+      "geckolib"
+    ]
+  }
+}

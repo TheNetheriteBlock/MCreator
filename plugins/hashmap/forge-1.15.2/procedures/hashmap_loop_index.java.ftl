@@ -1,0 +1,1 @@
+(__HashMapIteratorCurrent_${field$hashmapName})

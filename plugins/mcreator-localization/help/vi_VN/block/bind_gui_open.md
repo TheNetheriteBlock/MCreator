@@ -1,0 +1,1 @@
+Nếu tham số này được chọn, khối này sẽ mở GUI bị ràng buộc khi nhấp chuột phải.

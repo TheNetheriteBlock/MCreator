@@ -1,0 +1,1 @@
+Nếu thông số này được kiểm tra, khối sẽ rơi xuống như cát.

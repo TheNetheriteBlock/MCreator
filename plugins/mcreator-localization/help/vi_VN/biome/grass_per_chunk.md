@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng cỏ cao trên mỗi đoạn trong quần xã sinh vật này

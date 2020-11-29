@@ -1,0 +1,1 @@
+Âm thanh khi người chơi trang bị một mảnh áo giáp.

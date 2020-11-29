@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng nấm lớn nên được sinh sản trên mỗi đoạn quần xã.

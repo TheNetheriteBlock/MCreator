@@ -1,0 +1,1 @@
+Nếu thông số này được kiểm tra, bất kỳ loại cây nào cũng có thể được đặt và phát triển trên khối.

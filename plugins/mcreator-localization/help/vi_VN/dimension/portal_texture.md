@@ -1,0 +1,1 @@
+Tham số này kiểm soát kết cấu của cổng giống như kết cấu hoạt hình màu tím của cổng Nether.

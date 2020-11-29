@@ -1,0 +1,1 @@
+Quy trình này sẽ được thực hiện khi hiệu ứng bình thuốc được áp dụng cho một thực thể.

@@ -1,0 +1,1 @@
+Kết cấu này là kết cấu của mô hình đạn nếu sử dụng mô hình tùy chỉnh.

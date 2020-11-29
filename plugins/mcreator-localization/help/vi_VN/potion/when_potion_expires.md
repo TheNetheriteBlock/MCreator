@@ -1,0 +1,1 @@
+Thủ tục này sẽ được thực hiện khi một thực thể mất tác dụng của bình thuốc.

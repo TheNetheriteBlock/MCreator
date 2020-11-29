@@ -1,0 +1,1 @@
+Tham số này kiểm soát loại hạt sẽ được tạo ra bởi bộ tạo hạt này.

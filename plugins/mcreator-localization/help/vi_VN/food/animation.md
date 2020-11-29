@@ -1,0 +1,1 @@
+Hoạt ảnh thức ăn là hoạt ảnh được sử dụng khi người chơi ăn thức ăn.

@@ -1,0 +1,1 @@
+Quy trình này sẽ được thực hiện mỗi lần đánh dấu khi vật phẩm nằm trong kho của người chơi.

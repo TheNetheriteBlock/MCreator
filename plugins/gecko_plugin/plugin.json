@@ -1,0 +1,11 @@
+{
+    "id": "gecko_plugin",
+    "minversion": 202000318613,
+	"weight": 20,
+    "info": {
+        "name": "GeckoLib API Plugin",
+        "description": "A plugin and API that allows you to add support for GeckoLib",
+        "version": "1.0",
+        "authors": "itayfeder"
+    }
+}

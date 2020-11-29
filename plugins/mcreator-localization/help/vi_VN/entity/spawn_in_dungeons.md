@@ -1,0 +1,1 @@
+Nếu được chọn, dungeon (cấu trúc có mob spawner) có thể xuất hiện với thực thể của bạn trong mob spawner.

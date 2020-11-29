@@ -1,0 +1,1 @@
+/*@ItemStack*/((${input$entity} instanceof LivingEntity) ? ((LivingEntity)${input$entity}).getItemStackFromSlot(EquipmentSlotType.fromSlotTypeAndIndex(EquipmentSlotType.Group.ARMOR, ${input$index})) : ItemStack.EMPTY)

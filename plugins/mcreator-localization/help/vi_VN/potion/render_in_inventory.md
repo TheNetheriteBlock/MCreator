@@ -1,0 +1,1 @@
+Kích hoạt thông số này để hiệu ứng hiển thị trong kho của người chơi khi hoạt động.

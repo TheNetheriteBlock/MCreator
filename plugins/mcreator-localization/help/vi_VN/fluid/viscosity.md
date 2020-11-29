@@ -1,0 +1,1 @@
+Độ nhớt là mức độ khó đi trong chất lỏng.

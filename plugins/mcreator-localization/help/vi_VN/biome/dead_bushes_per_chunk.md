@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng bụi cây chết trong một quần xã sinh vật

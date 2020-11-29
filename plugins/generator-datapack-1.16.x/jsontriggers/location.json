@@ -1,0 +1,56 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "minx",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "maxx",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "miny",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "maxy",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "minz",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "maxz",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "nextStatement": null,
+  "colour": 35,
+  "mcreator": {
+    "toolbox_id": "world",
+    "toolbox_init": [
+      "<value name=\"minx\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"maxx\"><block type=\"math_number\"><field name=\"NUM\">2</field></block></value>",
+      "<value name=\"miny\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"maxy\"><block type=\"math_number\"><field name=\"NUM\">2</field></block></value>",
+      "<value name=\"minz\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"maxz\"><block type=\"math_number\"><field name=\"NUM\">2</field></block></value>"
+    ],
+    "inputs": [
+      "minx",
+      "maxx",
+      "miny",
+      "maxy",
+      "minz",
+      "maxz"
+    ]
+  }
+}

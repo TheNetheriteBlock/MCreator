@@ -1,0 +1,35 @@
+{
+  "message0": "Get item in inventory slot %1 of %2 %3",
+  "args0" : [
+	{
+      "type": "input_value",
+      "name": "index",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    },
+	{
+      "type": "field_image",
+      "src": "./res/bi.png",
+      "width": 8,
+      "height": 36
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "playermanagement",
+	"toolbox_init": [
+      "<value name=\"index\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+	  "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+	"inputs": [
+	  "index",
+	  "entity"
+	]
+  }
+}

@@ -1,0 +1,1 @@
+__HashMap_${field$hashmapName}.remove(${input$indexName});

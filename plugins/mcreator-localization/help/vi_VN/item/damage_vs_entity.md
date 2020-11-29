@@ -1,0 +1,1 @@
+Bạn có thể kích hoạt sát thương cận chiến cho vật phẩm của mình bằng thông số này và đặt giá trị sát thương.

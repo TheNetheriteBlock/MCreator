@@ -1,0 +1,11 @@
+{
+    "id": "manyoptions",
+    "minversion": 202000431617,
+    "maxversion": 202000535716,
+    "info": {
+        "name": "Many Options Plugin",
+        "description": "This plugin is a remake of More procedures, it adds several procedures.",
+        "version": "1.1",
+        "authors": "Fakeziinho(InfiniteCraft)"
+    }
+}

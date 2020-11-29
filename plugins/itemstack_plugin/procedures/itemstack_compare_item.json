@@ -1,0 +1,25 @@
+{
+  "message0": "Do item stacks %1 and %2 have the same item",
+  "args0" : [
+	{
+      "type": "input_value",
+      "name": "item_stack_1",
+      "check": "MCItem"
+    },
+	{
+      "type": "input_value",
+      "name": "item_stack_2",
+      "check": "MCItem"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "logicoperations",
+	"inputs": [
+	  "item_stack_1",
+	  "item_stack_2"
+	]
+  }
+}

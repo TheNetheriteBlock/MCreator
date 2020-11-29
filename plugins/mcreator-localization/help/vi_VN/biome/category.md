@@ -1,0 +1,1 @@
+Tham số này kiểm soát loại của quần xã sinh vật

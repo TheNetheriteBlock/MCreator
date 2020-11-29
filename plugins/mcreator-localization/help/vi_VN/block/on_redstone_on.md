@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi khối được cung cấp bởi nguồn năng lượng redstone.

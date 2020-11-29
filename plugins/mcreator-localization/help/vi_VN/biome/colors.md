@@ -1,0 +1,1 @@
+Tham số này cho phép các màu tùy chỉnh cho quần xã sinh vật của bạn.

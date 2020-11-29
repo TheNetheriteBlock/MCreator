@@ -1,0 +1,9 @@
+{
+  "id": "itemstacks",
+  "minversion": 202000318613,
+  "info": {
+	"name": "ItemStacks plugin",
+    "description": "This plugin adds some blocks to work with itemstacks",
+	"author": "SomeoneElse"
+  }
+}

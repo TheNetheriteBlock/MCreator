@@ -1,0 +1,10 @@
+{
+  "id": "generator-fabric-20w45a",
+  "minversion": 202000400000,
+  "info": {
+    "name": "Minecraft Fabric 20w45a Generator",
+    "version": "1.0.0+pre.7",
+    "description": "A Fabric Generator",
+    "author": "Goldorion and BoogieMonster1O1 with the help of CrispyChips"
+  }
+}

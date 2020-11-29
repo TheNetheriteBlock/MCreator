@@ -1,0 +1,23 @@
+{
+  "message0": "Remove custom name from %1",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+    "inputs": [
+      "item_stack"
+    ]
+  }
+}

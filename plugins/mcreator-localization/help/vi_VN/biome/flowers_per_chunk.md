@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng hoa vani (chỉ anh túc và bồ công anh) trên mỗi đoạn quần xã

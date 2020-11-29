@@ -1,0 +1,1 @@
+Quy trình này được thực hiện khi một thực thể sống (bò, cây leo, người chơi, v.v.) bị bắn trúng bằng vật phẩm này.

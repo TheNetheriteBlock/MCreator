@@ -1,0 +1,1 @@
+Quy trình được thực hiện khi người chơi nhấp chuột phải vào khối có vật phẩm này trong tay.

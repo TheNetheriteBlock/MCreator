@@ -1,0 +1,98 @@
+{
+  "message0": "Does %1 have attribute modifier for %2 on slot %3",
+  "args0": [
+	{
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    },
+	{
+      "type": "field_dropdown",
+      "name": "attribute",
+      "options": [
+        [
+          "max health",
+          "maxHealth"
+        ],
+        [
+          "follow range",
+          "followRange"
+        ],
+        [
+          "knockback resistance",
+          "knockbackResistance"
+        ],
+        [
+          "movement speed",
+          "movementSpeed"
+        ],
+        [
+          "attack damage",
+          "attackDamage"
+        ],
+        [
+          "attack speed",
+          "attackSpeed"
+        ],
+        [
+          "armor",
+          "armor"
+        ],
+        [
+          "armor toughness",
+          "armorToughness"
+        ],
+        [
+          "luck",
+          "luck"
+        ]
+      ]
+    },
+	{
+      "type": "field_dropdown",
+      "name": "slot",
+      "options": [
+        [
+          "main hand",
+          "MAINHAND"
+        ],
+        [
+          "offhand",
+          "OFFHAND"
+        ],
+		[
+          "head",
+          "HEAD"
+        ],
+        [
+          "chest",
+          "CHEST"
+        ],
+        [
+          "legs",
+          "LEGS"
+        ],
+		[
+          "feet",
+          "FEET"
+        ]
+      ]
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+	"fields": [
+      "attribute",
+	  "slot"
+    ],
+	"inputs": [
+	  "item_stack"
+	]
+  }
+}

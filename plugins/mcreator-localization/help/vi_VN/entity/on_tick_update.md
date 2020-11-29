@@ -1,0 +1,1 @@
+Kích hoạt quy trình mỗi lần đánh dấu thực thể tồn tại trên thế giới.

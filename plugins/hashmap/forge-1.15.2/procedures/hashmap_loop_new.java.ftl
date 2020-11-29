@@ -1,0 +1,1 @@
+__HashMapIterator_${field$hashmapName} = __HashMap_${field$hashmapName}.keySet().iterator();

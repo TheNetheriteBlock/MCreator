@@ -1,0 +1,1 @@
+Nếu bạn chỉ muốn sử dụng quần xã sinh vật này trong các kích thước tùy chỉnh, hãy tắt tùy chọn này.

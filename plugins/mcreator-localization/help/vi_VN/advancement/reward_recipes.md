@@ -1,0 +1,1 @@
+Công thức để mở khóa khi người chơi hoàn thành quá trình thăng tiến.

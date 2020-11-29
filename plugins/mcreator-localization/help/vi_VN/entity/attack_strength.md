@@ -1,0 +1,1 @@
+Lượng sát thương mà mob gây ra cho các thực thể khi tấn công.

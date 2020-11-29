@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi có thứ gì đó đặt khối (thực thể / khối) bên cạnh khối này.

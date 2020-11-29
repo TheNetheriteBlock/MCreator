@@ -1,0 +1,1 @@
+Tham số này xác định loại bảng loot bạn thực hiện.

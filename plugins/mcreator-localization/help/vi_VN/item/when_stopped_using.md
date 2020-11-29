@@ -1,0 +1,1 @@
+Thủ tục này được gọi khi người chơi ngừng sử dụng vật phẩm này (thường là khi nhấp chuột phải được thả).

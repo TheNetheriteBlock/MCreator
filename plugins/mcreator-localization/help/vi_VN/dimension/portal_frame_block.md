@@ -1,0 +1,1 @@
+Khối khung cổng là khối được sử dụng để tạo khung cổng cho thứ nguyên nếu cổng được bật.

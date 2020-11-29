@@ -1,0 +1,1 @@
+/*@ItemStack*/((${input$entity} instanceof ItemFrameEntity)? ((ItemFrameEntity)${input$entity}).getDisplayedItem() : ItemStack.EMPTY)

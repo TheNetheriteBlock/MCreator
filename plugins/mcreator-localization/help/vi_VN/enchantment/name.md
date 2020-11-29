@@ -1,0 +1,1 @@
+Tên của bùa được sử dụng trong trò chơi.

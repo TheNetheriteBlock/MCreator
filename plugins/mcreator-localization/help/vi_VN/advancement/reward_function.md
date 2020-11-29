@@ -1,0 +1,1 @@
+Bạn có thể chọn một chức năng được thực hiện khi người chơi hoàn thành việc thăng cấp với thông số này.

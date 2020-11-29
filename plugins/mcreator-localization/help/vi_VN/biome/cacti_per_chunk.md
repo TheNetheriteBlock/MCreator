@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng xương rồng trong một quần xã sinh vật

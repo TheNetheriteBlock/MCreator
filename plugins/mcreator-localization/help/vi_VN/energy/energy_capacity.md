@@ -1,0 +1,1 @@
+Tham số này kiểm soát giá trị năng lượng tối đa mà phần tử năng lượng của bạn (khối, vật phẩm, ...) có thể lưu trữ.

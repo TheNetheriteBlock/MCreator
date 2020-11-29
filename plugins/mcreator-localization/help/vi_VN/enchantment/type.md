@@ -1,0 +1,1 @@
+Thuộc tính này sẽ xác định loại vật phẩm nào có thể áp dụng bùa mê của bạn (chỉ trong bảng mê hoặc).

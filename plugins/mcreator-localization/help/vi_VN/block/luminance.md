@@ -1,0 +1,2 @@
+Tham số này kiểm soát lượng ánh sáng khối phát ra. Nó thường là một giá trị từ 0 đến 1.
+Nếu được đặt thành 0, khối sẽ không phát ra ánh sáng. Nếu được đặt thành 1, khối sẽ có giá trị ánh sáng là 15 (giống như đá phát sáng).

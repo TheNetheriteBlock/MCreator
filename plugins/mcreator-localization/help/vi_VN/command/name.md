@@ -1,0 +1,1 @@
+Từ sau dấu / mà người chơi phải viết để xác định lệnh, như gamemode, give, setblock, v.v.

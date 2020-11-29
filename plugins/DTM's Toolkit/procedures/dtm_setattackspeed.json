@@ -1,0 +1,30 @@
+{
+    "message0": "Set attack speed of %1 to %2",
+    "args0": [
+      {
+        "type": "input_value",
+        "name": "selectedEntity",
+        "check": "Entity"
+      },
+  {
+        "type": "input_value",
+        "name": "inputValue",
+        "check": "Number"
+      }
+    ],
+    "inputsInline": true,
+    "previousStatement": null,
+    "nextStatement": null,
+    "colour": 350,
+    "mcreator": {
+      "toolbox_id": "dtm",
+  "toolbox_init": [
+        "<value name=\"selectedEntity\"><block type=\"entity_from_deps\"></block></value>",
+        "<value name=\"inputValue\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+      ],
+  "inputs": [
+    "selectedEntity",
+    "inputValue"
+  ]
+    }
+  }

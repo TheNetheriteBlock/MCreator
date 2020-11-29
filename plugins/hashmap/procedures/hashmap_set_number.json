@@ -1,0 +1,39 @@
+{
+  "message0": "Set the %1 HashMap index %2 to number value %3",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    },
+    {
+      "type": "input_value",
+      "name": "indexName",
+      "check": "String"
+    },
+	{
+      "type": "input_value",
+      "name": "indexValue",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"toolbox_init": [
+      "<value name=\"indexName\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>",
+      "<value name=\"indexValue\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+	"fields": [
+      "hashmapName"
+    ],
+    "inputs": [
+      "indexName",
+      "indexValue"
+    ]
+  }
+}

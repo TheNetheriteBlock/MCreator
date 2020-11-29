@@ -1,0 +1,1 @@
+Kiểm tra thông số này nếu bạn muốn các hạt phát ra giữa không trung.

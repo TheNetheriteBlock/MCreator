@@ -1,0 +1,1 @@
+Thủ tục được thực hiện mỗi lần đánh dấu khi vật phẩm được người chơi cầm trên tay.

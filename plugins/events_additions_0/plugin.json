@@ -1,0 +1,11 @@
+{
+    "id": "eventsadditions",
+    "minversion": 202000431617,
+    "maxversion": 202000535716,
+    "info": {
+        "name": "Events Additions",
+        "description": "This plugin focuses entirely on events. And it adds a lot of utilities for events",
+        "version": "1.0",
+        "authors": "Fakeziinho(InfiniteCraft)"
+    }
+}

@@ -1,0 +1,1 @@
+Kích hoạt một quy trình khi khối bị phá hủy bởi một vụ nổ.

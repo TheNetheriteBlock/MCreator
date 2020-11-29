@@ -1,0 +1,1 @@
+Tham số này xác định nhóm bên trong sổ công thức mà công thức này sẽ được hiển thị.

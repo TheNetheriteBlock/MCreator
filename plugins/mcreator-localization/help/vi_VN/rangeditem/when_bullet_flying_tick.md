@@ -1,0 +1,1 @@
+Trong khi viên đạn đang bay, quy trình đã chọn sẽ được thực hiện mỗi lần đánh dấu.

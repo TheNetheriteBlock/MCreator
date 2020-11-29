@@ -1,0 +1,1 @@
+Khi khối cổng thông tin xuất hiện trên thế giới, quy trình sẽ được thực hiện mỗi lần đánh dấu.

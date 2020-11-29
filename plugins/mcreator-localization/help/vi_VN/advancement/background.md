@@ -1,0 +1,1 @@
+Nếu tiến trình của bạn là bước đầu tiên của một đường dẫn mới, bạn có thể chọn nền của tab Tiến trình với tùy chọn này.
