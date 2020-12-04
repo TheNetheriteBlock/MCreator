@@ -1,7 +1,7 @@
 [![MCreator](https://mcreator.net/image/brand/mcreator300s.png)](https://mcreator.net/)
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/MCreator/MCreator/blob/master/LICENSE.txt)
-[![Build](https://api.travis-ci.org/MCreator/MCreator.svg?branch=master)](https://travis-ci.org/github/MCreator/MCreator)
+[![Build](https://api.travis-ci.org/TheNetheriteBlock/MCreator.svg?branch=master)](https://travis-ci.org/github/TheNetheriteBlock/MCreator)
 [![Download](https://img.shields.io/badge/Download-release-%2393c54b)](https://mcreator.net/download)
 [![Donate](https://img.shields.io/badge/Donate-%E2%99%A1-%23ff7c00)](https://mcreator.net/donate)
 # MCreator - Minecraft Mod Maker
