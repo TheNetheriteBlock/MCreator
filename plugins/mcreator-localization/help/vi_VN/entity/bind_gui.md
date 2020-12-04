@@ -1,0 +1,2 @@
+Nếu bạn muốn liên kết GUI với thực thể của mình (ví dụ: để tạo ra một dân làng hoặc khoảng không quảng cáo giống ngựa tùy chỉnh),
+chọn hộp này để kích hoạt khoảng không quảng cáo và liên kết nó với một GUI đã chọn.

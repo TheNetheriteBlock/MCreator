@@ -1,0 +1,1 @@
+Giá trị này là giá trị năng lượng lớn nhất mà phần tử năng lượng (khối, vật phẩm, ...) có thể chiết xuất từ phần tử năng lượng khác.

@@ -1,0 +1,1 @@
+Số lượng hạt trung bình để sinh ra khi lặp đi lặp lại.

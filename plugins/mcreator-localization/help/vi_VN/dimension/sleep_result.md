@@ -1,0 +1,1 @@
+Thông số này kiểm soát những gì sẽ xảy ra nếu người chơi cố gắng ngủ trên giường trong không gian này.

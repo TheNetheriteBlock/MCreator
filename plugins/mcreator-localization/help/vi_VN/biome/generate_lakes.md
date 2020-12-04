@@ -1,0 +1,1 @@
+Tham số này kiểm soát xem có nên tạo hồ trong quần xã sinh vật này hay không.

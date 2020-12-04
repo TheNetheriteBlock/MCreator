@@ -1,0 +1,1 @@
+Đặt giá trị ánh sáng nếu chất lỏng của bạn. Đặt giá trị thành 0 sẽ tắt đèn.

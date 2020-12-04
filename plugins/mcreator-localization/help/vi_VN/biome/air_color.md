@@ -1,0 +1,1 @@
+Tham số này kiểm soát màu sắc của bầu trời trong quần xã sinh vật này.

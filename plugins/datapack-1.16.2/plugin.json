@@ -1,0 +1,10 @@
+{
+  "id": "datapack-1.16.2",
+  "minversion": 202000400000,
+  "info": {
+    "name": "DataPack 1.16.2",
+    "version": "1.0.0",
+    "description": "Data pack for 1.16.2",
+    "author": "Goldorion"
+  }
+}

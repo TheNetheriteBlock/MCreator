@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng mục rơi hoặc khối giảm xuống khi khối này bị phá vỡ.

@@ -1,0 +1,1 @@
+Kết cấu của bộ đánh lửa cổng thông tin được sử dụng để tạo cổng thông tin từ khung cổng thông tin.

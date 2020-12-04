@@ -1,0 +1,1 @@
+Kiểm tra thông số này nếu hiệu ứng của bạn nên áp dụng một lần như Sức khỏe tức thì.

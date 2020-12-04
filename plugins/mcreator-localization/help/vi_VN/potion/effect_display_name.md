@@ -1,0 +1,1 @@
+Tham số này kiểm soát tên của hiệu ứng (tên hiển thị bên trong hành trang của người chơi).

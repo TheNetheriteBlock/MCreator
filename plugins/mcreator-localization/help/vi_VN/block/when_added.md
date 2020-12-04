@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi khối được thêm vào thế giới (có thể không được gọi bởi một số trình tạo tự nhiên).

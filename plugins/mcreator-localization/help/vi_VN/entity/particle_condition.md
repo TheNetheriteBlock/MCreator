@@ -1,0 +1,1 @@
+Khi quy trình có điều kiện này đúng, thực thể sẽ sinh ra các hạt dựa trên cài đặt.

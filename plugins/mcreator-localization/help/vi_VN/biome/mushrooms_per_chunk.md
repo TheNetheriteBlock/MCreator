@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng khối nấm (thực vật) trên mỗi đoạn trong quần xã sinh vật này

@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi khối không được cung cấp bởi nguồn redstone.

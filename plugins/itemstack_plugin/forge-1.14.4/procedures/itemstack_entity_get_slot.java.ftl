@@ -1,0 +1,1 @@
+/*@ItemStack*/((${input$entity} instanceof PlayerEntity)?((PlayerEntity)${input$entity}).inventory.getStackInSlot((int)${input$index}):ItemStack.EMPTY)

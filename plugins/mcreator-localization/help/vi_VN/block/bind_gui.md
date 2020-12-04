@@ -1,0 +1,1 @@
+Tham số này kiểm soát GUI của khối của bạn. Chẳng hạn, nó cần để tạo một cái rương hoặc khối chế tác.

@@ -1,0 +1,1 @@
+Màu của sương mù bên trong không gian.

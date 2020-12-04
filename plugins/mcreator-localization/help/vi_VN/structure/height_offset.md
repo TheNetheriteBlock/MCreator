@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng khối ở trên hoặc dưới điểm sinh sản ban đầu mà cấu trúc sẽ được tạo.

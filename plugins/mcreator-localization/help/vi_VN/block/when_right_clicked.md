@@ -1,0 +1,1 @@
+Khi người chơi nhấp chuột phải vào khối, quy trình sẽ được thực hiện.

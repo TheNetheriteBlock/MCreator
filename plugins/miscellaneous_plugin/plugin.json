@@ -1,0 +1,10 @@
+{
+  "id": "miscellaneous",
+  "minversion": 202000300000,
+  "info": {
+	"name": "Miscellaneous plugin",
+    "description": "Plugin for various procedures",
+	"version": "1.1",
+	"author": "SomeoneElse"
+  }
+}

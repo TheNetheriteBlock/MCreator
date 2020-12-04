@@ -1,0 +1,2 @@
+<#include "mcitems.ftl">
+/*@ItemStack*/PotionUtils.appendEffects(${mappedMCItemToItemStackCode(input$item_stack, 1)}, Arrays.asList(new EffectInstance(${generator.map(field$potion, "potions")},(int) ${input$duration},(int) ${input$level})))

@@ -1,0 +1,11 @@
+{
+    "id": "apyn",
+    "weight": 10,
+    "minversion": 202000400000,
+    "maxversion": 202000499999,
+    "info": {
+        "name": "APYN",
+        "author": "ShockingArtist",
+        "version": "0.0.7"
+    }
+}

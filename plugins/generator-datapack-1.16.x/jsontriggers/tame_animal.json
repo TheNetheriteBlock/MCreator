@@ -1,0 +1,16 @@
+{
+  "args0": [],
+  "extensions": [
+    "entity_list_provider"
+  ],
+  "inputsInline": true,
+  "nextStatement": null,
+  "colour": 195,
+  "mcreator": {
+    "toolbox_id": "entity",
+    "toolbox_init": [],
+    "fields": [
+      "entity"
+    ]
+  }
+}

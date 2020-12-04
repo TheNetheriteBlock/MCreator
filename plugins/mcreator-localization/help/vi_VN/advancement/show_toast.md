@@ -1,0 +1,1 @@
+Hiển thị tiến trình ở trên cùng bên phải của màn hình khi người chơi hoàn thành tiến trình.

@@ -1,0 +1,9 @@
+{
+  "id": "hashmap",
+  "minversion": 202000300000,
+  "info": {
+    "name": "HashMap",
+    "description": "Add HashMap block to procedures",
+    "author": "Pucky - HeartKey.fr"
+  }
+}

@@ -1,0 +1,1 @@
+Nếu một viên đạn bắn trúng một thực thể sống (bò, cây leo, người chơi, v.v.), nó sẽ thực hiện quy trình đã chọn.

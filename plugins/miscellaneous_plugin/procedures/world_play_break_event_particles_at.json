@@ -1,0 +1,64 @@
+{
+  "message0": "Simulate breaking event for block at x: %1 y: %2 z: %3 and spawn particles at x: %4 y: %5 z: %6",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "x",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z",
+      "check": "Number"
+    },
+	{
+      "type": "input_value",
+      "name": "x_par",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y_par",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z_par",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 35,
+  "mcreator": {
+    "toolbox_id": "worldmanagement",
+    "toolbox_init": [
+      "<value name=\"x\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
+	  "<value name=\"x_par\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y_par\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z_par\"><block type=\"coord_z\"></block></value>"
+    ],
+    "inputs": [
+      "x",
+      "y",
+      "z",
+	  "x_par",
+      "y_par",
+      "z_par"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}

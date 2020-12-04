@@ -1,0 +1,36 @@
+{
+  "message0": "Item stack %1 with random enchantment with XP levels %2 allow treasure enchantments %3",
+  "args0": [
+	{
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    },
+	{
+      "type": "input_value",
+      "name": "level",
+      "check": "Number"
+    },
+	{
+      "type": "field_checkbox",
+      "name": "treasure",
+      "checked": true
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "mcelements",
+	"toolbox_init": [
+      "<value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">15</field></block></value>"
+    ],
+	"inputs": [
+	  "item_stack",
+	  "level"
+	],
+	"fields": [
+	  "treasure"
+	]
+  }
+}

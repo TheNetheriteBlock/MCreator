@@ -1,0 +1,21 @@
+{
+  "message0": "Get repair cost of %1",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    }
+  ],
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+    "inputs": [
+      "item_stack"
+    ]
+  }
+}

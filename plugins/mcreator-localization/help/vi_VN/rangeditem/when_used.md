@@ -1,0 +1,1 @@
+Khi mục phạm vi được sử dụng, quy trình đã chọn sẽ được kích hoạt.

@@ -1,0 +1,1 @@
+Nếu được chọn, thực thể sẽ xuất hiện trong thế giới một cách tự nhiên thông qua quá trình sinh sản của mob.

@@ -1,0 +1,20 @@
+{
+  "message0": "The %1 HashMap Iterator current index",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    }
+  ],
+  "inputsInline": true,
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"fields": [
+      "hashmapName"
+    ]
+  }
+}

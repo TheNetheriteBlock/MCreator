@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng cây lau sậy (cây như mía) trong quần xã sinh vật tùy chỉnh trên mỗi đoạn.

@@ -1,0 +1,1 @@
+Thông số này kiểm soát tốc độ cháy lan sang các khối khác.

@@ -1,0 +1,1 @@
+Đó là sự hiếm hoi của bùa phép xuất hiện trên một vật phẩm (bên trong bảng mê hoặc cho bảng loot).

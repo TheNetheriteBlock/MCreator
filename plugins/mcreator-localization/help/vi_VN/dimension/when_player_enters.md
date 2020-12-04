@@ -1,0 +1,1 @@
+Quy trình sẽ được thực hiện khi một người chơi vào thứ nguyên.

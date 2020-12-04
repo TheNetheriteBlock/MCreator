@@ -1,0 +1,1 @@
+Tham số này chọn loại hạt được phát ra bởi cổng thông tin khi cổng hoạt động.

@@ -1,0 +1,1 @@
+Nó là milibucket tối đa (1 xô = 1000 milibucket) mà khối có thể lưu trữ.

@@ -1,0 +1,30 @@
+{
+  "message0": "Set repair cost of %1 to %2 XP levels",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    },
+	{
+      "type": "input_value",
+      "name": "amount",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "itemmanagement",
+	"toolbox_init": [
+      "<value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+	  "<value name=\"item_stack\"><block type=\"itemstack_to_mcitem\"></block></value>"
+    ],
+    "inputs": [
+	  "item_stack",
+	  "amount"
+	]
+  }
+}

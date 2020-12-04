@@ -1,0 +1,1 @@
+Các khe cắm đầu ra sẽ không được sử dụng làm đầu vào để truyền vật phẩm phễu.

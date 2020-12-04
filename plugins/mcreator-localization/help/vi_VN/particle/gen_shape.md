@@ -1,0 +1,1 @@
+Tham số này thiết lập hình dạng để sinh ra các hạt trong đó.

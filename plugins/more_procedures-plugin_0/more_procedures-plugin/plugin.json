@@ -1,0 +1,9 @@
+{
+    "id": "mps-1.12.2-1.14.4-1.15.2",
+    "minversion": 202000300000,
+    "info": {
+        "name": "A plugin adds mores procedures and global triggers",
+        "version": "1.4",
+        "authors": "InfiniteCraft"
+    }
+}

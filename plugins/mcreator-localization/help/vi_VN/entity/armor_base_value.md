@@ -1,0 +1,1 @@
+Số lượng điểm giáp tích hợp mà mob có. Zombies mặc định có 4 điểm giáp.

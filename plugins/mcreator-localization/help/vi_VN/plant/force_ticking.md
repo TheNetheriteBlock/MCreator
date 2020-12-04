@@ -1,0 +1,1 @@
+Một số loại thực vật đánh dấu tự nhiên nhưng một số thì không. Kiểm tra thông số này để buộc đánh dấu trong mọi trường hợp.

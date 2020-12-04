@@ -1,0 +1,1 @@
+(${input$entity} instanceof EntityLivingBase ? ((EntityLivingBase)${input$entity}).canEntityBeSeen(${input$target}) : false)

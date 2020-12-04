@@ -1,0 +1,9 @@
+templates:
+  - template: smelting.json.ftl
+    writer: json
+    name: "@RESROOT/data/@[getNamespace()]/recipes/@[getName()].json"
+    condition: "recipeType %= Smelting"
+  - template: crafting.json.ftl
+    writer: json
+    name: "@RESROOT/data/@[getNamespace()]/recipes/@[getName()].json"
+    condition: "recipeType %= Crafting"

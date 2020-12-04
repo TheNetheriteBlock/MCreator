@@ -1,0 +1,1 @@
+Kiểm tra tham số này nếu bạn muốn nó phá hủy bất kỳ khối nào bằng vật phẩm hoặc công cụ này, thậm chí cả nền tảng.

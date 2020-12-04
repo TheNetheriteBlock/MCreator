@@ -1,0 +1,1 @@
+Tên được hiển thị trong tab menu quảng cáo.

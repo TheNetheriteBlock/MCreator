@@ -1,0 +1,1 @@
+Tham số này kiểm soát tên của khóa hiển thị bên trong tab Điều khiển trong cài đặt Minecraft.

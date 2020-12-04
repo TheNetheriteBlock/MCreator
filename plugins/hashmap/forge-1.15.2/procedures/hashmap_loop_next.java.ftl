@@ -1,0 +1,1 @@
+(__HashMapIterator_${field$hashmapName}.hasNext() && (__HashMapIteratorCurrent_${field$hashmapName} = __HashMapIterator_${field$hashmapName}.next()) != null)

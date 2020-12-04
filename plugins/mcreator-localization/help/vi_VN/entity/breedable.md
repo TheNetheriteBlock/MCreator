@@ -1,0 +1,1 @@
+Các mục được sử dụng để tạo thực thể với một thực thể khác nếu thông số có thể tạo giống được bật.

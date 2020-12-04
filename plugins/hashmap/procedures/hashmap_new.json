@@ -1,0 +1,21 @@
+{
+  "message0": "Create an HashMap named %1",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    }
+  ],
+  "inputsInline": false,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 280,
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"fields": [
+      "hashmapName"
+    ]
+  }
+}

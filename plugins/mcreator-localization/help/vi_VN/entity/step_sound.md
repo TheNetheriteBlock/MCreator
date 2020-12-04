@@ -1,0 +1,1 @@
+Âm thanh được phát khi thực thể bước đi.

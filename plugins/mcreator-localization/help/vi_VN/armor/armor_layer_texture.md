@@ -1,0 +1,1 @@
+Kết cấu của lớp áo giáp là kết cấu hiển thị trên người chơi khi họ có bộ giáp trên người.

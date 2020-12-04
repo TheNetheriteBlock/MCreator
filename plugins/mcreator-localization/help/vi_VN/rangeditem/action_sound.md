@@ -1,0 +1,1 @@
+Tham số này kiểm soát âm thanh được phát khi sử dụng mục có phạm vi rộng.

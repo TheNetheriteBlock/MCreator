@@ -1,0 +1,1 @@
+Thông số này kiểm soát khả năng mưa bên trong quần xã sinh vật.

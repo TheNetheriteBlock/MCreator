@@ -1,0 +1,28 @@
+{
+  "message0": "Item in item frame %1 %2",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    },
+	{
+      "type": "field_image",
+      "src": "./res/bi.png",
+      "width": 8,
+      "height": 36
+    }
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "entitymanagement",
+	"toolbox_init": [
+      "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+	"inputs": [
+	  "entity"
+	]
+  }
+}

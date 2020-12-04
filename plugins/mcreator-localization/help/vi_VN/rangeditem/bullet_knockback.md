@@ -1,0 +1,1 @@
+Con số càng cao, thực thể bị tấn công sẽ càng bị đẩy bởi vật phẩm tầm xa.

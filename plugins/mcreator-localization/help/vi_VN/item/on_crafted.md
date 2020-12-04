@@ -1,0 +1,1 @@
+Quy trình này được thực hiện khi vật phẩm này được làm thủ công hoặc nấu chảy.

@@ -1,0 +1,20 @@
+{
+  "message0": "The %1 HashMap Iterator next",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Boolean",
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"fields": [
+      "hashmapName"
+    ]
+  }
+}

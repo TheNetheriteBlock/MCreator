@@ -1,0 +1,1 @@
+(Các) hạng mục mà công cụ có thể được sửa chữa trong một cái đe.

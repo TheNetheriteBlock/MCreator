@@ -1,0 +1,21 @@
+{
+  "message0": "Get namespace of namespaced ID %1",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "ID",
+      "check": "String"
+    }
+  ],
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "text",
+	"toolbox_init": [
+	  "<value name=\"ID\"><block type=\"text\"><field name=\"TEXT\">minecraft:dirt</field></block></value>"
+    ],
+    "inputs": [
+	  "ID"
+    ]
+  }
+}

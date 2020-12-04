@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng khối mà thực thể có thể được nhìn thấy.

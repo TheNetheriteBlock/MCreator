@@ -1,0 +1,1 @@
+Bán kính là đường kính tính bằng khối mà các hạt sẽ sinh ra.

@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng nhóm khối cát trên mỗi chunk sinh vật.s

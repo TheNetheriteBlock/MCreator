@@ -1,0 +1,29 @@
+{
+  "message0": "Import the %1 HashMap from %2",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    },
+    {
+      "type": "input_value",
+      "name": "serializedValue",
+      "check": "String"
+    }
+  ],
+  "inputsInline": false,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 280,
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"fields": [
+      "hashmapName"
+    ],
+    "inputs": [
+      "serializedValue"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Tham số này kiểm soát âm thanh do cổng phát ngẫu nhiên khi hoạt động.

@@ -1,0 +1,1 @@
+Tham số này kiểm soát độ cao của quần xã sinh vật. Ví dụ như các ngọn núi có thông số này được đặt thành một giá trị lớn.

@@ -1,0 +1,1 @@
+Thông số này kiểm soát xem thực phẩm này có phải là thức ăn cho chó và các động vật khác ăn thịt hay không.

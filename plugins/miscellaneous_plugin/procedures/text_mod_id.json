@@ -1,0 +1,8 @@
+{
+  "message0": "Mod ID",
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "text"
+  }
+}

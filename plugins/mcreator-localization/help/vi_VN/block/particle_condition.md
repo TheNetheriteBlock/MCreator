@@ -1,0 +1,1 @@
+Khi quy trình có điều kiện này đúng, khối tại x, y và z sẽ sinh ra các hạt dựa trên cài đặt.

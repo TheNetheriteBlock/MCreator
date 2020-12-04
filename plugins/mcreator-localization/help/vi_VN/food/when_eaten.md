@@ -1,0 +1,1 @@
+Thủ tục sẽ được thực hiện khi người chơi ăn xong thức ăn.

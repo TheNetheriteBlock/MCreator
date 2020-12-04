@@ -1,0 +1,49 @@
+plugins {
+	id 'fabric-loom' version '0.5-SNAPSHOT'
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+archivesBaseName = '${modid}'
+version = '1.0.0'
+group = '${package}'
+
+dependencies {
+	minecraft("com.mojang:minecraft:20w45a")
+    mappings("net.fabricmc:yarn:20w45a+build.29:v2")
+    modImplementation("net.fabricmc:fabric-loader:0.10.6+build.214")
+
+	//Fabric api
+	modImplementation("net.fabricmc.fabric-api:fabric-api:0.25.4+1.17")
+
+	modImplementation("io.github.prospector:modmenu:1.15.0+build.1") {
+		exclude module: 'fabric-api'
+	}
+}
+
+processResources {
+	inputs.property "version", project.version
+
+	from(sourceSets.main.resources.srcDirs) {
+		include "fabric.mod.json"
+		expand "version": project.version
+	}
+
+	from(sourceSets.main.resources.srcDirs) {
+		exclude "fabric.mod.json"
+	}
+}
+
+tasks.withType(JavaCompile) {
+	options.encoding = "UTF-8"
+}
+
+task sourcesJar(type: Jar, dependsOn: classes) {
+	classifier = "sources"
+	from sourceSets.main.allSource
+}
+
+jar {
+	from "LICENSE"
+}

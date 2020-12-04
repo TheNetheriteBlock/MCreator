@@ -1,0 +1,1 @@
+(Double.valueOf(__HashMap_${field$hashmapName}.get(${input$indexName})))

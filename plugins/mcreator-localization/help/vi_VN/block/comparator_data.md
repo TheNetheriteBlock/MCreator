@@ -1,0 +1,1 @@
+Kiểm tra tham số này nếu bạn muốn khối hoạt động với bộ so sánh.

@@ -1,0 +1,1 @@
+Điều khiển thông số này là biểu tượng hiển thị bên trong kho của người chơi khi bình thuốc hoạt động.

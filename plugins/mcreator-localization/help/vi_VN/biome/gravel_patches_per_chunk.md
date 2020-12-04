@@ -1,0 +1,1 @@
+Tham số này kiểm soát số lượng nhóm khối sỏi trên mỗi đoạn trong quần xã sinh vật này

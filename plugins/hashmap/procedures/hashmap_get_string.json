@@ -1,0 +1,31 @@
+{
+  "message0": "Get the %1 HashMap string value at index %2",
+  "args0": [
+    {
+      "type": "field_input",
+      "name": "hashmapName",
+	  "text": "default",
+      "check": "String"
+    },
+    {
+      "type": "input_value",
+      "name": "indexName",
+      "check": "String"
+    }
+  ],
+  "inputsInline": false,
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "hashmap",
+	"toolbox_init": [
+      "<value name=\"indexName\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+	"fields": [
+      "hashmapName"
+    ],
+    "inputs": [
+      "indexName"
+    ]
+  }
+}

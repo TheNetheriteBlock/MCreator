@@ -1,0 +1,1 @@
+Đây là số điểm kinh nghiệm mà người chơi sẽ nhận được sau khi hoàn thành việc thăng cấp.

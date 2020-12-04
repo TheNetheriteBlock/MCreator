@@ -1,0 +1,1 @@
+__HashMap_${field$hashmapName}.put((${input$indexName}), (${input$indexValue}));

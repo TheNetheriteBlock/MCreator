@@ -1,0 +1,40 @@
+{
+  "message0": "Play animation %2 as entity %1. Should loop %3",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    },
+	{
+      "type": "input_value",
+      "name": "animation",
+      "check": "String"
+    },
+	{
+      "type": "input_value",
+      "name": "loop",
+      "check": "Boolean"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 310,
+  "mcreator": {
+    "toolbox_id": "animationmanagement",
+    "toolbox_init": [
+      "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>",
+	  "<value name=\"animation\"><block type=\"text\"><field name=\"TEXT\">animation.example.test</field></block></value>",
+      "<value name=\"loop\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value>"
+    ],
+    "inputs": [
+      "entity",
+      "animation",
+      "loop"
+    ],
+    "required_apis":[
+      "geckolib"
+    ]
+  }
+}

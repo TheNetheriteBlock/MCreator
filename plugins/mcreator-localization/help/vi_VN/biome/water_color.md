@@ -1,0 +1,1 @@
+Thông số này kiểm soát màu của nước bên trong quần xã sinh vật

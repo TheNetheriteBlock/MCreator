@@ -1,0 +1,2 @@
+<#include "mcitems.ftl">
+(${mappedMCItemToItemStackCode(input$item_stack, 1)}).addAttributeModifier("generic.${field$attribute}", new AttributeModifier("generic.${field$attribute}", ${input$amount}, AttributeModifier.Operation.byId(${field$operation})), <#if field$slot?lower_case != "null"> EquipmentSlotType.</#if>${field$slot});

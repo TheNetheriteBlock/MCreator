@@ -1,0 +1,57 @@
+{
+  "message0": "Set blockstate integer property %1 of block at x: %2 y: %3 z: %4 to %5",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "property",
+      "check": "String"
+    },
+	{
+      "type": "input_value",
+      "name": "x",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z",
+      "check": "Number"
+    },
+	{
+      "type": "input_value",
+      "name": "amount",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "blockactions",
+    "toolbox_init": [
+      "<value name=\"x\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
+      "<value name=\"property\"><block type=\"text\"><field name=\"TEXT\">age</field></block></value>",
+      "<value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+    "inputs": [
+      "x",
+      "y",
+      "z",
+      "property",
+	  "amount"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}

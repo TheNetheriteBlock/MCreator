@@ -1,0 +1,1 @@
+(${input$block}.getBlock() instanceof IGrowable)

@@ -1,0 +1,41 @@
+{
+  "message0": "Item stack %3 with potion: amplifier %1 , duration %2 : ",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "level",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "duration",
+      "check": "Number"
+    },
+	{
+      "type": "input_value",
+      "name": "item_stack",
+      "check": "MCItem"
+    }
+  ],
+  "extensions": [
+    "potion_list_provider"
+  ],
+  "inputsInline": true,
+  "output": "MCItem",
+  "colour": 350,
+  "mcreator": {
+    "toolbox_id": "mcelements",
+    "toolbox_init": [
+      "<value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"duration\"><block type=\"math_number\"><field name=\"NUM\">60</field></block></value>"
+    ],
+    "fields": [
+      "potion"
+    ],
+    "inputs": [
+      "level",
+      "duration",
+	  "item_stack"
+    ]
+  }
+}

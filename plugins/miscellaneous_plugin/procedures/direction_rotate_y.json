@@ -1,0 +1,22 @@
+{
+  "message0": "Rotate direction %1 clockwise around axis Y",
+  "args0": [
+	{
+      "type": "input_value",
+      "name": "direction",
+      "check": "Direction"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Direction",
+  "colour": 20,
+  "mcreator": {
+    "toolbox_id": "mcelements",
+	"toolbox_init": [
+      "<value name=\"direction\"><block type=\"direction_constant\">DOWN</block></value>"
+    ],
+	"inputs": [
+      "direction"
+    ]
+  }
+}

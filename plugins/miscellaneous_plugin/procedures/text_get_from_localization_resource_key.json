@@ -1,0 +1,21 @@
+{
+  "message0": "Get translated text from resource key %1",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "key",
+      "check": "String"
+    }
+  ],
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "text",
+	"toolbox_init": [
+	  "<value name=\"key\"><block type=\"text\"><field name=\"TEXT\">block.minecraft.dirt</field></block></value>"
+    ],
+    "inputs": [
+	  "key"
+    ]
+  }
+}

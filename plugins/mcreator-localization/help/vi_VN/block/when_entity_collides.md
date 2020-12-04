@@ -1,0 +1,1 @@
+Kích hoạt một thủ tục khi một thực thể nằm trong khối.

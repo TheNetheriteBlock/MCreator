@@ -1,0 +1,10 @@
+{
+  "id": "rng_plugin",
+  "minversion": 2020400000,
+  "info": {
+    "name": "Simple RNG plugin",
+	"description": "This plugin adds some procedure blocks for random integers, booleans and gaussians",
+	"author": "SomeoneElse",
+	"version": "1.2"
+  }
+}

@@ -1,0 +1,1 @@
+/*@ItemStack*/((${input$entity} instanceof ItemEntity)? ((ItemEntity)${input$entity}).getItem() : ItemStack.EMPTY)
